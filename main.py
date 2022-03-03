@@ -1,4 +1,8 @@
 #Como criar 10000 mil arquivos .txt 
+import os
+
+if not 'passwords' in os.listdir():
+    os.mkdir('./Arquivos')
 
 numero_do_arquivo = 0
 
