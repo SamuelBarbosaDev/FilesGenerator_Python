@@ -4,7 +4,9 @@
     <p>
     O objetivo desse script é gerar 10.000 arquivo.txt,
     uma das razões para criar esse script foi aprender 
-    mais sobre a biblioteca "os".
+    mais sobre a biblioteca "os", além disso, também é 
+    um conteúdo que postei no <a href="https://www.instagram.com/tv/CZm0hBiJ2Cg/?utm_source=ig_web_copy_link">Instagram</a> e <a href="https://www.youtube.com/channel/UCDFkX0MUQFsMTH0YkKwzJoA">YouTube</a> onde 
+    compartilho conteúdo de programação.
     </p>
 
 <h3>Como Funciona:</h3>
