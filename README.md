@@ -22,7 +22,7 @@
         Aprendi muito sobre a biblioteca "os",
         aprendi que ela serve para manipulação de 
         arquivos, diretórios, etc., durante as
-        minhas pesquisas aprendi ser uma boa 
+        minhas pesquisas aprendi que é uma boa 
         pratica utiliza "with()" ao invés de simplesmente
         abrir o arquivo utilizando "open()" e depois
         fechá-lo com "close()".
