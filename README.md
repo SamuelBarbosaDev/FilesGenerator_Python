@@ -11,10 +11,10 @@
 
 <h3>Como Funciona:</h3>
     <p>
-        Primeiramente verifico se a pasta "Arquivos" existe,
-        caso não exista utilizo a lib "os" para lo cria e,
-        dentro de um loop, que se repetira 10.000 vez, lá 
-        informamos o conteúdo do arquivo e o seu nome. 
+    Primeiramente verifico se a pasta Arquivos existe, 
+    caso não exista utilizo a lib "os" para criar uma pasta 
+    chamada arquivos e, dentro de um loop, que se repetirá 10.000 vez, 
+    lá informamos o conteúdo do arquivo e o seu nome.
     </p>
 
 <h3> O que aprendi:</h3>
@@ -22,8 +22,8 @@
         Aprendi muito sobre a biblioteca "os",
         aprendi que ela serve para manipulação de 
         arquivos, diretórios, etc., durante as
-        minhas pesquisas aprendi que é uma boa 
-        pratica utiliza "with()" ao invés de simplesmente
+        minhas pesquisas aprendi ser uma boa 
+        prática utilizar "with()" ao invés de simplesmente
         abrir o arquivo utilizando "open()" e depois
         fechá-lo com "close()".
     </p>
